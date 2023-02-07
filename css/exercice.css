@@ -17,11 +17,11 @@
 .exercice-order-2 .container {
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
 
 .exercice-order-2 .element {
   order: 1;
+  width: 100%;
 }
 
 .exercice-order-2 .element-yellow {
